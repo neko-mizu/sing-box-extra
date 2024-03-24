@@ -10,9 +10,9 @@ require (
 	github.com/matsuridayo/libneko v1.0.0 // replaced
 	github.com/miekg/dns v1.1.58 // indirect
 	github.com/sagernet/sing v0.3.6
-	github.com/sagernet/sing-box v1.8.9 // replaced
-	github.com/sagernet/sing-dns v0.1.12
-	github.com/sagernet/sing-tun v0.2.4
+	github.com/sagernet/sing-box v1.8.10 // replaced
+	github.com/sagernet/sing-dns v0.1.14
+	github.com/sagernet/sing-tun v0.2.5
 	github.com/spf13/cobra v1.8.0
 	golang.org/x/sys v0.18.0
 	golang.org/x/tools v0.19.0 // indirect
